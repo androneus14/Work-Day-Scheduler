@@ -27,5 +27,5 @@ To allow the user to save their task into the daily planner, a save button is cr
 ![VSC-LocalStorage](https://user-images.githubusercontent.com/98381243/160270905-33dab44b-4e8a-4a8e-9727-6517aa11095d.png)
   
 In regards to the local storage coding, I believe there's a simplier code that we can be used to target each hour as a whole but I wasn't able to figure out how to do that. Instead, I've had to target each hour individually so the coding isn't as clean as it can be. 
-  
+
 Link to the finished product: https://androneus14.github.io/Work-Day-Scheduler/
