@@ -12,7 +12,7 @@ The next task was to create timeblocks for standard business hours (9am - 5pm) a
 
 ![Website-Timeblocks](https://user-images.githubusercontent.com/98381243/160270589-f6503c94-799e-4efb-9f2a-477e0fc7325c.png)
 
-
+![Website-TB-Colours](https://user-images.githubusercontent.com/98381243/160325452-5237a58f-4f35-473e-bf13-bcb359e71912.png)
 
 ![VSC-ColorTimeBlocks](https://user-images.githubusercontent.com/98381243/160271010-140dd461-0c2c-4706-a622-2544ad64f77b.png)
 
